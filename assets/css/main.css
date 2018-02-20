@@ -1,0 +1,208 @@
+/*--------------------- Common Css Start ----------------*/
+<link href="https://fonts.googleapis.com/css?family=Merriweather+Sans" rel="stylesheet">
+
+* {
+	outline: none;
+}
+a:hover {
+	text-decoration: none;
+}
+body {
+	-webkit-font-smoothing: antialiased;
+	font-family: 'Merriweather Sans', sans-serif;
+}
+
+p {
+	font-size: 14px;
+    color: #6f8291;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	
+}
+
+hr {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	border-top: 1px solid;
+	color: #e6ebec;
+}
+
+textarea {
+	resize: none;
+}
+
+.footer {
+	text-align: center;
+	font-size: 14pt;
+	background-color: #f1f4f5;
+	padding-top: 15px;
+	padding-bottom: 10px;
+}
+
+.a {
+	background-color: #f1f4f5;
+	padding-top: 80px;
+	padding-bottom: 80px;
+	padding-right: 0;
+	padding-left: 0;
+}
+
+.a .container-fluid {
+	/*padding-left: 0;*/
+}
+.a p {
+	font-family: 'OpenSans';
+	font-size: 14px;
+	color: #6f8291;
+	margin-bottom: 20px;
+}
+
+.x h6{
+	font-size: 11px;
+    margin-bottom: 5px;
+    /*margin-top: 20px;*/
+}
+
+.a .add {
+	color: #4ac3e7;
+}
+
+.hh {
+	border-style: 1px solid;
+    border-color: #cfe2ef;
+    color: #333;
+    padding: 7px 7px;
+    margin-bottom: 6px;
+    font-size: 12px;
+}
+
+.hh:hover {
+	background-color: #f9ac59;
+	color: #333;
+	transition: all 0.5s ease-in-out;
+}
+
+.ll {
+	    background: url(../images/get_in_touch.jpg);
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center center;
+    position: relative;
+        padding-top: 35px;
+    padding-bottom: 35px;
+    color: #fff;
+}
+
+.ll p {
+	color: #fff;
+}
+
+.w-w-d-1 {
+	    background: url(../images/what_we_do_1.jpg);
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center center;
+    position: relative;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+
+.w-w-d-2 {
+	    background: url(../images/what_we_do_2.jpg);
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center center;
+    position: relative;
+    padding-top: 10px;
+    padding-bottom: 35px;
+
+}
+
+.w-w-d-2 p {
+	color: #e6ece8;
+}
+
+.w-w-d-2 h3 {
+	color: #fff;
+}
+
+
+
+.hhc {
+	    border-color: #cfe2ef;
+    color: #fff;
+    padding: 10px 25px;
+    font-size: 15px;
+}
+
+.hhc:hover {
+	background-color: #fff;
+	color: #333;
+	transition: all 0.5s ease-in-out;
+}
+
+.qq {
+
+    padding-top: 30px;
+}
+
+.owl-carousel .owl-nav .owl-prev {
+    position: absolute;
+    right: -25px;
+    top: 21%;
+    background-color: #1e2026;
+    font-size: 25px;
+}
+
+
+.owl-carousel .owl-nav .owl-next {
+    position: absolute;
+    left: -25px;
+    top: 21%;
+    background-color: #1e2026;
+    font-size: 25px;
+}
+
+.our-part-1 {
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 40px;
+}
+
+.our-part-2 {
+	padding-bottom: 40px; 
+}
+
+.event-book {
+	padding-top: 70px;
+	padding-bottom: 70px;
+	background-color: #f1f4f5;
+}
+
+.event-book img {
+	padding-bottom: 20px;
+}
+/*.our-book {
+	padding-bottom: 20px;
+}*/
+
+.e-b-p {
+	padding-bottom: 35px;
+}
+
+.purchase {
+	color: #4987ca;
+}
+
+
+
+.what-we-do-2 {
+	padding-top: 60px;
+	padding-bottom: 80px;
+}
+
+.what-we-do-1 {
+	text-align: center;
+    padding-top: 50px;
+}
