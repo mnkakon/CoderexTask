@@ -40,7 +40,7 @@ textarea {
 	padding-bottom: 10px;
 }
 
-.a {
+.about-us {
 	background-color: #f1f4f5;
 	padding-top: 80px;
 	padding-bottom: 80px;
@@ -48,27 +48,26 @@ textarea {
 	padding-left: 0;
 }
 
-.a .container-fluid {
+.about-us .container-fluid {
 	/*padding-left: 0;*/
 }
-.a p {
+.about-us p {
 	font-family: 'OpenSans';
 	font-size: 14px;
 	color: #6f8291;
 	margin-bottom: 20px;
 }
 
-.x h6{
+.a-u-text h6{
 	font-size: 11px;
     margin-bottom: 5px;
-    /*margin-top: 20px;*/
 }
 
-.a .add {
+.about-us .add {
 	color: #4ac3e7;
 }
 
-.hh {
+.b-t {
 	border-style: 1px solid;
     border-color: #cfe2ef;
     color: #333;
@@ -77,29 +76,29 @@ textarea {
     font-size: 12px;
 }
 
-.hh:hover {
+.b-t:hover {
 	background-color: #f9ac59;
 	color: #333;
 	transition: all 0.5s ease-in-out;
 }
 
-.ll {
-	    background: url(../images/get_in_touch.jpg);
+.get-in-touch {
+	background: url(../images/get_in_touch.jpg);
     background-size: cover;
     background-repeat: repeat;
     background-position: center center;
     position: relative;
-        padding-top: 35px;
+    padding-top: 35px;
     padding-bottom: 35px;
     color: #fff;
 }
 
-.ll p {
+.get-in-touch p {
 	color: #fff;
 }
 
 .w-w-d-1 {
-	    background: url(../images/what_we_do_1.jpg);
+	background: url(../images/what_we_do_1.jpg);
     background-size: cover;
     background-repeat: repeat;
     background-position: center center;
@@ -129,20 +128,20 @@ textarea {
 
 
 
-.hhc {
+.b-t-c {
 	    border-color: #cfe2ef;
     color: #fff;
     padding: 10px 25px;
     font-size: 15px;
 }
 
-.hhc:hover {
+.b-t-c:hover {
 	background-color: #fff;
 	color: #333;
 	transition: all 0.5s ease-in-out;
 }
 
-.qq {
+.g-t-con {
 
     padding-top: 30px;
 }
@@ -183,9 +182,6 @@ textarea {
 .event-book img {
 	padding-bottom: 20px;
 }
-/*.our-book {
-	padding-bottom: 20px;
-}*/
 
 .e-b-p {
 	padding-bottom: 35px;
@@ -194,8 +190,6 @@ textarea {
 .purchase {
 	color: #4987ca;
 }
-
-
 
 .what-we-do-2 {
 	padding-top: 60px;
